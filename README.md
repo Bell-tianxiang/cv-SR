@@ -1,4 +1,6 @@
 # CV-SR
+高级计算机视觉作业
+
 SRCNN超分辨率模型
 ## Use：
 运行“pre_data.py”获取训练需要的train.h5和test.h5文件
